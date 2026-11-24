@@ -1,2 +1,3 @@
-# smart-campus-navigator
-Smart Campus Navigation and Facility Locator for JNTUA College of Engineering, Pulivendula
+# Smart Campus Navigator
+
+Live Website: https://jntua-pulivendula-smart-campus-navigator.ai.studio
