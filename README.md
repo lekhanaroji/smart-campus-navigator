@@ -36,3 +36,4 @@ Website deployed. Campus location data and navigation details require verificati
 ---
 
 **Developed as an academic project.**
+
